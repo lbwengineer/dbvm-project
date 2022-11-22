@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YuanShen", "YuanShen.vcxproj", "{BAA57CC3-B365-437D-8400-C46943A69E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		OnlyDbk|x64 = OnlyDbk|x64
+		OnlyDbk|x86 = OnlyDbk|x86
+		UseDbvm|x64 = UseDbvm|x64
+		UseDbvm|x86 = UseDbvm|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.Debug|x64.ActiveCfg = Debug|x64
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.Debug|x64.Build.0 = Debug|x64
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.Debug|x86.Build.0 = Debug|Win32
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.OnlyDbk|x64.ActiveCfg = OnlyDbk|x64
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.OnlyDbk|x64.Build.0 = OnlyDbk|x64
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.OnlyDbk|x86.ActiveCfg = OnlyDbk|Win32
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.OnlyDbk|x86.Build.0 = OnlyDbk|Win32
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.UseDbvm|x64.ActiveCfg = UseDbvm|x64
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.UseDbvm|x64.Build.0 = UseDbvm|x64
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.UseDbvm|x86.ActiveCfg = UseDbvm|Win32
+		{BAA57CC3-B365-437D-8400-C46943A69E69}.UseDbvm|x86.Build.0 = UseDbvm|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88799CEF-DE94-4518-8F85-BFE7EBE56A22}
+	EndGlobalSection
+EndGlobal
